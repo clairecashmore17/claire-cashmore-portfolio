@@ -1,0 +1,14 @@
+#projects {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+#proj-collection {
+  display: flex;
+  justify-content: center;
+}
+
+.project {
+  margin: 10px;
+}

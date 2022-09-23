@@ -1,12 +1,16 @@
 :root {
   background: rgb(76, 43, 94);
-  --primary: rgb(76, 43, 94);
-  --secondary: rgb(192, 140, 240);
-  --tertiary: rgb(237, 204, 251);
+  --primary: rgb(70, 13, 100);
+  --secondary-border: lavender;
+  --tertiary: rgb(176, 141, 242);
+  --primary-border: rgba(212, 181, 228, 0.645);
+  --secondary: rgb(31, 2, 53);
 }
 
 .mainBody {
   background-color: var(--primary);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 code {
@@ -136,4 +140,10 @@ a {
   padding: 2px 4px;
   margin-left: -2px;
   margin-right: -2px;
+}
+
+.title {
+  margin-top: 20px;
+  color: var(--secondary-border);
+  font-family: "Times New Roman", Times, serif;
 }
