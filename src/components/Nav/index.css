@@ -1,12 +1,14 @@
 header {
-  background-color: rgb(192, 140, 240);
+  background-color: var(--secondary);
 }
 header a {
   text-decoration: none;
   color: rgb(48, 22, 62);
 }
 .navActive {
-  color: var(--secondary);
+  color: rgb(48, 22, 62);
+  background-color: var(--tertiary);
+  border-radius: 15%;
 }
 
 li {
@@ -16,7 +18,7 @@ nav span {
   border-radius: 15%;
 }
 nav span:hover {
-  background-color: rgb(228, 219, 238);
+  background-color: var(--tertiary);
 }
 
 nav li {

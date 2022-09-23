@@ -12,13 +12,13 @@ function Navbar(props) {
       </h2>
       <nav>
         <ul className="flex-row">
-          <li className={`mx-2 `}>
+          <li className={`mx-2 ${pageSelected === "about" && "navActive"}`}>
             <span onClick={() => setPageSelected("about")}>About Me</span>
           </li>
-          <li className={`mx-2 `}>
+          <li className={`mx-2 ${pageSelected === "projects" && "navActive"}`}>
             <span onClick={() => setPageSelected("projects")}>Projects</span>
           </li>
-          <li className={`mx-2 `}>
+          <li className={`mx-2 ${pageSelected === "contact" && "navActive"}`}>
             <span onClick={() => setPageSelected("contact")}>Contact</span>
           </li>
         </ul>
