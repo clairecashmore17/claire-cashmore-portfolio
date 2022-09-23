@@ -5,7 +5,7 @@ function Projects() {
   const projects = [
     {
       name: "project 1",
-      img_src: "",
+      img_name: "Movie-Matchers.png",
     },
     {
       name: "project 2",
@@ -19,7 +19,11 @@ function Projects() {
         <div id="proj-collection">
           {projects.map((project) => (
             <div className="project card">
-              <img src={project.img_src} alt="${}" />
+              <img
+                src={`../../images/${project.img_name}`}
+                alt={project.name}
+                key={project.name}
+              />
               <div>{project.name}</div>
             </div>
           ))}
