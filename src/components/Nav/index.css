@@ -12,11 +12,11 @@ header a {
 li {
   list-style: none;
 }
-nav a {
-  text-decoration: none;
+nav span {
+  border-radius: 15%;
 }
-nav a:hover {
-  background-color: rgb(188, 149, 235);
+nav span:hover {
+  background-color: rgb(228, 219, 238);
 }
 
 nav li {

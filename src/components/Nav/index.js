@@ -1,7 +1,8 @@
 import React from "react";
 
 import "./index.css";
-function Navbar() {
+function Navbar(props) {
+  const { setPageSelected, pageSelected } = props;
   return (
     <header className="flex-row px-1">
       <h2>
@@ -12,13 +13,13 @@ function Navbar() {
       <nav>
         <ul className="flex-row">
           <li className={`mx-2 `}>
-            <span>About Me</span>
+            <span onClick={() => setPageSelected("about")}>About Me</span>
           </li>
           <li className={`mx-2 `}>
-            <span>Projects</span>
+            <span onClick={() => setPageSelected("projects")}>Projects</span>
           </li>
           <li className={`mx-2 `}>
-            <span>Contact</span>
+            <span onClick={() => setPageSelected("contact")}>Contact</span>
           </li>
         </ul>
       </nav>
