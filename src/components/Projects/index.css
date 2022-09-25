@@ -2,16 +2,43 @@
   display: flex;
   flex-direction: column;
   text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+#projects a {
+  background-color: var(--tertiary);
+  padding: 5px;
+}
+#small-project {
+  width: 20%;
+  max-width: fit-content;
+  margin: 5px;
 }
 
 #proj-collection {
-  border-top: 2px solid var(--secondary-border);
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  width: 80%;
+  margin-bottom: 20px;
 }
-
+#proj-collection img {
+  height: 300px;
+  width: 100%;
+}
+#proj-collection img:hover {
+  opacity: 0.5;
+}
+#project-name {
+  background-color: var(--secondary);
+  width: 75%;
+  margin: 5px;
+  margin-left: 0;
+  color: var(--tertiary);
+}
 .project {
   margin: 10px;
   display: flex;
   flex-direction: column;
+  border: 2px solid var(--secondary-border);
 }

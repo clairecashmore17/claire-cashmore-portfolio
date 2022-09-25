@@ -4,7 +4,7 @@
   text-align: center;
 }
 #info {
-  border-top: 2px solid var(--secondary-border);
+  /* border-top: 2px solid var(--secondary-border); */
   display: flex;
   background-color: var(--secondary);
   margin: 5px;

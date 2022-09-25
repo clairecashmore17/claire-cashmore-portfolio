@@ -146,4 +146,6 @@ a {
   margin-top: 20px;
   color: var(--secondary-border);
   font-family: "Times New Roman", Times, serif;
+  width: 100%;
+  border-bottom: 2px solid var(--secondary-border);
 }

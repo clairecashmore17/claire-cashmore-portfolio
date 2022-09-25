@@ -9,9 +9,7 @@
 #contact-subtitle {
   margin-top: 5px;
 }
-#contact-info {
-  border-top: 2px solid var(--secondary-border);
-}
+
 #contacts img {
   width: 100px;
 }
