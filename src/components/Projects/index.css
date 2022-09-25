@@ -5,6 +5,7 @@
 }
 
 #proj-collection {
+  border-top: 2px solid var(--secondary-border);
   display: flex;
   justify-content: center;
 }

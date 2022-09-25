@@ -2,13 +2,13 @@
   display: flex;
   flex-direction: column;
   text-align: center;
-  /* justify-content: center; */
 }
 #info {
   border-top: 2px solid var(--secondary-border);
   display: flex;
   background-color: var(--secondary);
   margin: 5px;
+  justify-content: center;
 }
 #about img {
   float: left;
