@@ -34,10 +34,6 @@ function About() {
             Structures, and Microprocessors, Node.js, Handlebars, HTML and CSS.
           </p>
         </div>
-        <div id="resume">
-          <h1 className="title">Resume</h1>
-          <img id="resume-img" src="../../images/resume.JPG" />
-        </div>
       </section>
     </>
   );

@@ -15,6 +15,9 @@ function Navbar(props) {
           <li className={`mx-2 ${pageSelected === "about" && "navActive"}`}>
             <span onClick={() => setPageSelected("about")}>About Me</span>
           </li>
+          <li className={`mx-2 ${pageSelected === "resume" && "navActive"}`}>
+            <span onClick={() => setPageSelected("resume")}>Resume</span>
+          </li>
           <li className={`mx-2 ${pageSelected === "projects" && "navActive"}`}>
             <span onClick={() => setPageSelected("projects")}>Projects</span>
           </li>
