@@ -4,7 +4,6 @@
   text-align: center;
   color: aliceblue;
   justify-content: center;
-  height: auto;
 }
 #contact-subtitle {
   margin-top: 5px;
@@ -30,7 +29,7 @@
 }
 .info ul li {
   padding: 10px 10px;
-  margin: 5px;
+  margin: 20px;
   color: var(--secondary-color);
   border-bottom: 1.5px solid var(--tertiary);
   background-color: var(--secondary);
@@ -41,7 +40,7 @@
   color: var(--tertiary);
 }
 .icons {
-  margin-top: 50px;
+  margin-top: 7%;
   margin-left: 30px;
   display: flex;
   flex-direction: column;

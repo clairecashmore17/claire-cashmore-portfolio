@@ -42,3 +42,25 @@
   flex-direction: column;
   border: 2px solid var(--secondary-border);
 }
+
+@media screen and (max-width: 1650px) {
+}
+
+@media screen and (max-width: 1200px) {
+  #proj-collection {
+    width: 100%;
+  }
+  #proj-collection img {
+    height: 200px;
+    width: 100%;
+  }
+  #projects {
+    font-size: small;
+  }
+}
+@media screen and (max-width: 750px) {
+  #proj-collection img {
+    height: 100px;
+    width: 100%;
+  }
+}

@@ -7,6 +7,7 @@ function About() {
         <h2 className="title">About Me</h2>
         <div id="info">
           <img
+            id="profile-img"
             src="https://clairecashmore17.github.io/Portfolio/images/claire-profile.jpg"
             alt="Claire Cashmore"
           />
@@ -32,6 +33,10 @@ function About() {
             Algorithms, Software Engineering Practices, Discrete Math
             Structures, and Microprocessors, Node.js, Handlebars, HTML and CSS.
           </p>
+        </div>
+        <div id="resume">
+          <h1 className="title">Resume</h1>
+          <img id="resume-img" src="../../images/resume.JPG" />
         </div>
       </section>
     </>

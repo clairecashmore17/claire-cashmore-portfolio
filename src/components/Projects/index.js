@@ -35,11 +35,6 @@ function Projects() {
       img_name: "oh-snap.png",
       proj_link: "https://github.com/clairecashmore17/oh-snap",
     },
-    {
-      name: "REACT Oh Snap Portfolio",
-      img_name: "oh-snap.png",
-      proj_link: "https://github.com/clairecashmore17/oh-snap",
-    },
   ];
   return (
     <>
