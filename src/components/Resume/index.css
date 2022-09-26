@@ -19,6 +19,7 @@
   display: flex;
   justify-content: center;
   background-color: var(--secondary);
+  border-radius: 15px;
 }
 #resume li {
   color: var(--tertiary);
