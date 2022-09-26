@@ -21,6 +21,7 @@
   justify-content: center;
   width: 80%;
   margin-bottom: 20px;
+  background-color: var(--secondary);
 }
 #proj-collection img {
   height: 300px;
