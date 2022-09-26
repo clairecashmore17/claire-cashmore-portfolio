@@ -149,11 +149,11 @@ function Contact() {
               </div>
               <aside className="icons">
                 <img
-                  src="../../images/contact-add.webp"
+                  src={require("../../images/contact-add.webp")}
                   alt="contact adding icon commonly seen when adding a colleague or friend"
                 />
                 <img
-                  src="../../images/social-media-icons.png"
+                  src={require("../../images/social-media-icons.png")}
                   alt="icons of multiple media sites representing contact"
                 />
               </aside>
