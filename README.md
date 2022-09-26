@@ -29,7 +29,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/clairecashmore17/Portfolio.git
+   git clone https://github.com/clairecashmore17/claire-cashmore-portfolio.git
    ```
 2. Install Dependencies
    ```sh
