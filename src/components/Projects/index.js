@@ -45,7 +45,7 @@ function Projects() {
             <div className="project card">
               <a href={project.proj_link} target="_blank">
                 <img
-                  src={`../../images/${project.img_name}`}
+                  src={require(`../../images/${project.img_name}`)}
                   alt={project.name}
                   key={project.name}
                 />
@@ -60,7 +60,7 @@ function Projects() {
             <div className="card" id="small-project">
               <a href={project.proj_link} target="_blank">
                 <img
-                  src={`../../images/${project.img_name}`}
+                  src={require(`../../images/${project.img_name}`)}
                   alt={project.name}
                   key={project.name}
                 />

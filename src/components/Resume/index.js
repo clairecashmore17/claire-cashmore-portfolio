@@ -20,7 +20,7 @@ function Resume() {
             </ul>
           </div>
           <div id="pdf">
-            <img id="resume-img" src="../../images/resume.JPG" />
+            <img id="resume-img" src={require("../../images/resume.JPG")} />
             <a href="../../images/Resume_PDF.pdf" download>
               Download as pdf
             </a>
