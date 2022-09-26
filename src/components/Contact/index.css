@@ -49,3 +49,32 @@
   width: 100px;
   height: 100px;
 }
+
+#form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#information {
+  display: flex;
+}
+#information input {
+  width: 100%;
+  border-radius: 15px;
+  border: 5px solid var(--tertiary);
+}
+#information textarea {
+  width: 100%;
+  border-radius: 15px;
+  border: 5px solid var(--tertiary);
+}
+#submit-btn {
+  background-color: var(--secondary);
+  border-radius: 15px;
+}
+
+#submit-btn:hover {
+  opacity: 0.8;
+  background-color: var(--tertiary);
+  color: var(--secondary);
+}
