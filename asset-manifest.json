@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/claire-cashmore-portfolio/static/css/main.d1be9e7a.css",
-    "main.js": "/claire-cashmore-portfolio/static/js/main.2a3eac86.js",
+    "main.css": "/claire-cashmore-portfolio/static/css/main.769d6f8f.css",
+    "main.js": "/claire-cashmore-portfolio/static/js/main.31812895.js",
     "static/js/787.8b63b0a7.chunk.js": "/claire-cashmore-portfolio/static/js/787.8b63b0a7.chunk.js",
+    "static/media/Movie-Matchers.png": "/claire-cashmore-portfolio/static/media/Movie-Matchers.ee1ff0d754f00ab2c25a.png",
+    "static/media/Braggin_rights.png": "/claire-cashmore-portfolio/static/media/Braggin_rights.0f62e36e67939c2610ce.png",
+    "static/media/Resume_PDF.pdf": "/claire-cashmore-portfolio/static/media/Resume_PDF.1a2203fe63daf5cc4629.pdf",
+    "static/media/resume.JPG": "/claire-cashmore-portfolio/static/media/resume.20cdce44343acf9fa425.JPG",
+    "static/media/oh-snap.png": "/claire-cashmore-portfolio/static/media/oh-snap.a86ecd5727f55d8fb51e.png",
+    "static/media/weather-site.png": "/claire-cashmore-portfolio/static/media/weather-site.d0c19ba3a5bb9df02ea0.png",
+    "static/media/readme-generator.JPG": "/claire-cashmore-portfolio/static/media/readme-generator.a704425991e0dd116b14.JPG",
     "static/media/background.JPG": "/claire-cashmore-portfolio/static/media/background.d0115230807684b75982.JPG",
+    "static/media/QP-db.png": "/claire-cashmore-portfolio/static/media/QP-db.4d2566ccd1df0c8de5e5.png",
+    "static/media/Tech-blog.png": "/claire-cashmore-portfolio/static/media/Tech-blog.672e7f13bb8c461de578.png",
+    "static/media/instagram.png": "/claire-cashmore-portfolio/static/media/instagram.600e04a99e153ffd3eff.png",
+    "static/media/contact-add.webp": "/claire-cashmore-portfolio/static/media/contact-add.69ff29a6f77fed26a2b9.webp",
     "index.html": "/claire-cashmore-portfolio/index.html",
-    "main.d1be9e7a.css.map": "/claire-cashmore-portfolio/static/css/main.d1be9e7a.css.map",
-    "main.2a3eac86.js.map": "/claire-cashmore-portfolio/static/js/main.2a3eac86.js.map",
+    "main.769d6f8f.css.map": "/claire-cashmore-portfolio/static/css/main.769d6f8f.css.map",
+    "main.31812895.js.map": "/claire-cashmore-portfolio/static/js/main.31812895.js.map",
     "787.8b63b0a7.chunk.js.map": "/claire-cashmore-portfolio/static/js/787.8b63b0a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1be9e7a.css",
-    "static/js/main.2a3eac86.js"
+    "static/css/main.769d6f8f.css",
+    "static/js/main.31812895.js"
   ]
 }
