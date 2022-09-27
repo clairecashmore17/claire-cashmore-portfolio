@@ -21,7 +21,10 @@ function Resume() {
           </div>
           <div id="pdf">
             <img id="resume-img" src={require("../../images/resume.JPG")} />
-            <a href="./../Resume_PDF.pdf" download>
+            <a
+              href="https://github.com/clairecashmore17/claire-cashmore-portfolio/blob/main/public/Resume_PDF.pdf"
+              download
+            >
               Download as pdf
             </a>
           </div>
