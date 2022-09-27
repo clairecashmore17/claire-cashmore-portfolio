@@ -78,3 +78,9 @@
   background-color: var(--tertiary);
   color: var(--secondary);
 }
+
+@media screen and (max-width: 750px) {
+  #information {
+    flex-direction: column;
+  }
+}
