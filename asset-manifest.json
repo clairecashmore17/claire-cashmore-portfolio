@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/claire-cashmore-portfolio/static/css/main.cabed7e0.css",
-    "main.js": "/claire-cashmore-portfolio/static/js/main.d9449cf0.js",
+    "main.js": "/claire-cashmore-portfolio/static/js/main.fbb05f8b.js",
     "static/js/787.8b63b0a7.chunk.js": "/claire-cashmore-portfolio/static/js/787.8b63b0a7.chunk.js",
     "static/media/Movie-Matchers.png": "/claire-cashmore-portfolio/static/media/Movie-Matchers.ee1ff0d754f00ab2c25a.png",
     "static/media/Braggin_rights.png": "/claire-cashmore-portfolio/static/media/Braggin_rights.0f62e36e67939c2610ce.png",
@@ -16,11 +16,11 @@
     "static/media/contact-add.webp": "/claire-cashmore-portfolio/static/media/contact-add.69ff29a6f77fed26a2b9.webp",
     "index.html": "/claire-cashmore-portfolio/index.html",
     "main.cabed7e0.css.map": "/claire-cashmore-portfolio/static/css/main.cabed7e0.css.map",
-    "main.d9449cf0.js.map": "/claire-cashmore-portfolio/static/js/main.d9449cf0.js.map",
+    "main.fbb05f8b.js.map": "/claire-cashmore-portfolio/static/js/main.fbb05f8b.js.map",
     "787.8b63b0a7.chunk.js.map": "/claire-cashmore-portfolio/static/js/787.8b63b0a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cabed7e0.css",
-    "static/js/main.d9449cf0.js"
+    "static/js/main.fbb05f8b.js"
   ]
 }
