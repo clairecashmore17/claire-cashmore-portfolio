@@ -11,6 +11,7 @@ function Projects() {
     {
       name: "Bragging Rights",
       img_name: "Braggin_rights.png",
+
       proj_link: "https://github.com/clairecashmore17/bragging-rights",
     },
     {
