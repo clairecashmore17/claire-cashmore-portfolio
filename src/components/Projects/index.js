@@ -13,6 +13,11 @@ function Projects() {
       img_name: "Braggin_rights.png",
       proj_link: "https://github.com/clairecashmore17/bragging-rights",
     },
+    {
+      name: "Web Game using Phaser&React",
+      img_name: "phaser-react-game.png",
+      proj_link: "https://github.com/clairecashmore17/phaser-game",
+    },
   ];
   const small_projects = [
     {
