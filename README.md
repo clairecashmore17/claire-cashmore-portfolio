@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">Portfolio</h1>
-    <p align="center">A portfolio displaying Claire Cashmore's projects.</p>
+    <p align="center">A portfolio demonstrating Claire Cashmore's Software programming experience.</p>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
