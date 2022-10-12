@@ -17,7 +17,13 @@ function About() {
             Aeronautical University. I completed my studies with a 3.471 GPA
             while participating in the schools collegiate soccer team. I hope to
             continue the pattern of maintaining a balance between staying
-            athletic and following my dreams in the software industry.
+            athletic and following my dreams in the software industry. Ever
+            since my father introduced an arcade machine to me, I have made it
+            my goal to discover what lengths software programming can go to. I
+            have instincitvely followed my passion through robotics, computer
+            engineering, and web development from 8th grade to present! I hope
+            to get to work full time and complete my lifelong goal of designing
+            the software that reaches out to others.
             <br />
             <br />
             After completing my undergraduate degree, I decided to pursue
@@ -27,8 +33,10 @@ function About() {
             <br />
             <br /> I am currently seeking a role as a full-stack developer or
             software engineer. Proficient with C/C++ but have worked with C# and
-            javascript. Always looking for a new opportunity to learn and become
-            experienced in any language. <br />
+            Javascript. Knowledge in Data Structures, Algorithms,
+            Microprocessors, and Software Engineering Practices. Strong
+            communicator and team player. I am able to accomplish work on my own
+            time while also working well in a group setting. <br />
             <br /> Experienced coursework such as Data Structures and
             Algorithms, Software Engineering Practices, Discrete Math
             Structures, and Microprocessors, Node.js, Handlebars, HTML and CSS.

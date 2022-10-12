@@ -38,6 +38,10 @@
   margin-left: 0;
   color: var(--tertiary);
 }
+#project-tech {
+  color: var(--secondary);
+  background-color: var(--primary-border);
+}
 .project {
   margin: 10px;
   display: flex;
