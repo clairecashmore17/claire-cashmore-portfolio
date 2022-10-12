@@ -20,7 +20,7 @@
 ![PortfolioScreenshot](./public/site-screen-cap.png)<br />
 [Deployment](https://clairecashmore17.github.io/claire-cashmore-portfolio/)
 
-<h3> This portfolio successfully utilizes the React.js tool in order to make an interactive and user-friendly website. With a clean design and fast-reacting components, this portfolio demonstrates Claire's software experience with ease.
+<h3> This portfolio successfully utilizes the React.js tool in order to make an interactive and user-friendly website. With a clean design and fast-reacting components, this portfolio demonstrates Claire's software experience with ease. </h3>
 ## Languages and Libraries Used
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
