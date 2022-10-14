@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Portfolio</h1>
+    <h1 align="center">Chronically Creative</h1>
     <p align="center">A portfolio demonstrating Claire Cashmore's Software programming experience.</p>
 </p>
 
