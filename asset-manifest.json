@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/claire-cashmore-portfolio/static/css/main.3043c198.css",
-    "main.js": "/claire-cashmore-portfolio/static/js/main.4d7e07ef.js",
+    "main.js": "/claire-cashmore-portfolio/static/js/main.68af7c0e.js",
     "static/js/787.8b63b0a7.chunk.js": "/claire-cashmore-portfolio/static/js/787.8b63b0a7.chunk.js",
     "static/media/Movie-Matchers.png": "/claire-cashmore-portfolio/static/media/Movie-Matchers.ee1ff0d754f00ab2c25a.png",
     "static/media/Braggin_rights.png": "/claire-cashmore-portfolio/static/media/Braggin_rights.0f62e36e67939c2610ce.png",
     "static/media/Resume_PDF.pdf": "/claire-cashmore-portfolio/static/media/Resume_PDF.9c2d724370bb3b0339ce.pdf",
     "static/media/resume.JPG": "/claire-cashmore-portfolio/static/media/resume.86e1e7d1bb13cbd56e73.JPG",
     "static/media/oh-snap.png": "/claire-cashmore-portfolio/static/media/oh-snap.a86ecd5727f55d8fb51e.png",
+    "static/media/Petyard.png": "/claire-cashmore-portfolio/static/media/Petyard.88d95d5ff5dac9381176.png",
     "static/media/weather-site.png": "/claire-cashmore-portfolio/static/media/weather-site.d0c19ba3a5bb9df02ea0.png",
     "static/media/readme-generator.JPG": "/claire-cashmore-portfolio/static/media/readme-generator.a704425991e0dd116b14.JPG",
     "static/media/background.JPG": "/claire-cashmore-portfolio/static/media/background.d0115230807684b75982.JPG",
@@ -18,11 +19,11 @@
     "static/media/contact-add.webp": "/claire-cashmore-portfolio/static/media/contact-add.69ff29a6f77fed26a2b9.webp",
     "index.html": "/claire-cashmore-portfolio/index.html",
     "main.3043c198.css.map": "/claire-cashmore-portfolio/static/css/main.3043c198.css.map",
-    "main.4d7e07ef.js.map": "/claire-cashmore-portfolio/static/js/main.4d7e07ef.js.map",
+    "main.68af7c0e.js.map": "/claire-cashmore-portfolio/static/js/main.68af7c0e.js.map",
     "787.8b63b0a7.chunk.js.map": "/claire-cashmore-portfolio/static/js/787.8b63b0a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3043c198.css",
-    "static/js/main.4d7e07ef.js"
+    "static/js/main.68af7c0e.js"
   ]
 }
