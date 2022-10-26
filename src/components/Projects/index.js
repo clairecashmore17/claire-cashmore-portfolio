@@ -21,11 +21,12 @@ function Projects() {
       tech: "Javascript, Node.js, MySQL, Express.js, Uploader.js",
     },
     {
-      name: "Web Game using Phaser&React",
-      img_name: "phaser-react-game.png",
-      proj_link: "https://github.com/clairecashmore17/phaser-game",
-      description: "A basic web browser game developed with Phaser and React",
-      tech: "Javascript, React, Phaser3",
+      name: "PetYard",
+      img_name: "Petyard.png",
+      proj_link: "https://github.com/clairecashmore17/petyard",
+      description:
+        "Full-stack React app. Online blog website with a front-end twist! Join others and learn about their pets through our app!",
+      tech: "Javascript, React, Node, MongoDB, GraphQL, Apollo",
     },
   ];
   const small_projects = [
@@ -36,6 +37,13 @@ function Projects() {
       description:
         "Front-end Website using public API to fetch information and display weather for the searched city made by users. ",
       tech: "Javascript, HTML, CSS",
+    },
+    {
+      name: "Web Game using Phaser&React",
+      img_name: "phaser-react-game.png",
+      proj_link: "https://github.com/clairecashmore17/phaser-game",
+      description: "A basic web browser game developed with Phaser and React",
+      tech: "Javascript, React, Phaser3",
     },
     {
       name: "Tech Blog",
