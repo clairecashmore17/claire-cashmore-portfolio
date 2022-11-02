@@ -28,6 +28,13 @@ function Projects() {
         "Full-stack React app. Online blog website with a front-end twist! Join others and learn about their pets through our app!",
       tech: "Javascript, React, Node, MongoDB, GraphQL, Apollo",
     },
+    {
+      name: "Chronically Creative",
+      img_name: "chronically_creative.gif",
+      proj_link: "https://github.com/clairecashmore17/chronically-creative",
+      description: "Online store for Chronically Creative's crochet creations.",
+      tech: "MongoDB, GraphQL, Apollo, React, and Javascript",
+    },
   ];
   const small_projects = [
     {
@@ -96,7 +103,7 @@ function Projects() {
         </div>
         <div id="proj-collection">
           {small_projects.map((project) => (
-            <div className="card" id="small-project">
+            <div className="card small-project" id="small-project">
               <a href={project.proj_link} target="_blank">
                 <img
                   src={require(`../../images/${project.img_name}`)}

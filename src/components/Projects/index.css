@@ -50,9 +50,22 @@
 }
 
 @media screen and (max-width: 1650px) {
+  .project {
+    width: 500px;
+  }
+  .small-project {
+    width: 400px;
+    height: 200px;
+  }
 }
 
 @media screen and (max-width: 1200px) {
+  .project {
+    height: 300px;
+  }
+  .card {
+    height: 300px;
+  }
   #proj-collection {
     width: 100%;
   }
@@ -67,6 +80,12 @@
 @media screen and (max-width: 750px) {
   .project {
     width: 70%;
+  }
+  .small-project {
+    width: 50px;
+  }
+  .card {
+    width: 300px;
   }
   #small-project {
     margin: 10px;
